@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @peperoxyz. My real name is Dea Ananda Gunawan.
 - 👀 I’m interested in Frontend Web Development.
 - 🌱 I’m currently learning how to make a good website. I've finished BPPTIK's VSGA for Junior Web Developer field and have been declared Competent.
-- 💞️ I’m looking to collaborate on a project with someone else's Web UI design that they've already made at figma. 
+- 💞️ Here's where you can see my current portfolio: [Dea's Portfolio](https://deaportfolio-recap.super.site/)
 - 📫 You can contact me at my gmail deaanandagunawan@gmail.com or just simply saying hi to my instagram account : @degeagadeaa
-- Here's one of my online hosted website I made, please kindly check it out : https://tubes2dea.000webhostapp.com/
-  - You can see the more advance feature by logging in as username and password bellow:
+- Here's one of my online hosted website I made, please kindly check it out: [Villamas](https://tubes2dea.000webhostapp.com/)
+  - You can see the more advance feature by logging in as bellow:
     - username : admin
     - password : admin
