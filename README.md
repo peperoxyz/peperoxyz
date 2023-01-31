@@ -1,4 +1,4 @@
-- Been working with Gitlab for the past 7 months, so this park right here might not be so green xD, anyway
+Been working with Gitlab for the past 7 months, so this park right here might not be so green xD, anyway
 - 👋 Hi, I’m @peperoxyz. My real name is Dea Ananda Gunawan.
 - 👀 I’m interested in Frontend Web Development.
 - 🌱 I’m currently learning how to make a good website. I've finished BPPTIK's VSGA for Junior Web Developer field and have been declared Competent.
